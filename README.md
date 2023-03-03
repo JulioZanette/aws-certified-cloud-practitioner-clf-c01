@@ -16,12 +16,14 @@ AWS Certified Cloud Practitioner (CLF-C01) Training Material
 - [Six advantages of cloud computing](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html)
 - [EC2 Automatic Recovery](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-default-automatic-recovery/)
 - [Instance Advisor](https://aws.amazon.com/ec2/spot/instance-advisor/)
+- [AWS Cloud Databases](https://aws.amazon.com/products/databases/)
 - []()
 
 ### Events and Webnars
 - [AWS Events and Webinars](https://aws.amazon.com/events/)
 - [AWS Activate](https://aws.amazon.com/activate/)
 - [AWS Cloud Databases](https://aws.amazon.com/products/databases/)
+- []()
 
 ### Tools
 - [AWS Pricing Calculator](https://calculator.aws)
