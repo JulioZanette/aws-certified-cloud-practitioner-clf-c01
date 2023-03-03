@@ -1,9 +1,7 @@
-# AWS-Certified-Cloud-Practitioner-CLF-C01
-AWS Certified Cloud Practitioner (CLF-C01) Training Material
-
+# AWS Certified Cloud Practitioner (CLF-C01)
 ---
 
-## Resource Material
+## Training Material
 
 ### Training and Certification
 - [Cloud practitioner](https://aws.amazon.com/training/learn-about/cloud-practitioner/?th=tile&tile=learnabout)
@@ -26,7 +24,6 @@ AWS Certified Cloud Practitioner (CLF-C01) Training Material
 - [AWS re/Start](https://aws.amazon.com/training/restart/)
 - [VPC endpoints](https://docs.aws.amazon.com/whitepapers/latest/aws-privatelink/what-are-vpc-endpoints.html)
 - [Multi-Factor Authentication with WebAuthn for AWS SSO](https://aws.amazon.com/blogs/aws/multi-factor-authentication-with-webauthn-for-aws-sso/)
-- []()
 
 ### Events and Webnars
 - [AWS Events and Webinars](https://aws.amazon.com/events/)
@@ -36,4 +33,3 @@ AWS Certified Cloud Practitioner (CLF-C01) Training Material
 
 ### Tools
 - [AWS Pricing Calculator](https://calculator.aws)
-- []()
