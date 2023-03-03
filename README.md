@@ -21,7 +21,7 @@ AWS Certified Cloud Practitioner (CLF-C01) Training Material
 ### Events and Webnars
 - [AWS Events and Webinars](https://aws.amazon.com/events/)
 - [AWS Activate](https://aws.amazon.com/activate/)
-- []()
+- [AWS Cloud Databases](https://aws.amazon.com/products/databases/)
 
 ### Tools
 - [AWS Pricing Calculator](https://calculator.aws)
