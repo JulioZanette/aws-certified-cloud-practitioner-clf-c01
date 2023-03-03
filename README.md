@@ -17,6 +17,7 @@ AWS Certified Cloud Practitioner (CLF-C01) Training Material
 - [EC2 Automatic Recovery](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-default-automatic-recovery/)
 - [Instance Advisor](https://aws.amazon.com/ec2/spot/instance-advisor/)
 - [AWS Cloud Databases](https://aws.amazon.com/products/databases/)
+- [AWS Shield](https://aws.amazon.com/shield/features/)
 - []()
 
 ### Events and Webnars
