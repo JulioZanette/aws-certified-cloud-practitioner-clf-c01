@@ -18,6 +18,10 @@ AWS Certified Cloud Practitioner (CLF-C01) Training Material
 - [Instance Advisor](https://aws.amazon.com/ec2/spot/instance-advisor/)
 - [AWS Cloud Databases](https://aws.amazon.com/products/databases/)
 - [AWS Shield](https://aws.amazon.com/shield/features/)
+- [Encrypting Data-at-Rest and -in-Transit](https://docs.aws.amazon.com/whitepapers/latest/logical-separation/encrypting-data-at-rest-and--in-transit.html)
+- [AWS re/Start](https://aws.amazon.com/training/restart/)
+- [VPC endpoints](https://docs.aws.amazon.com/whitepapers/latest/aws-privatelink/what-are-vpc-endpoints.html)
+- [Multi-Factor Authentication with WebAuthn for AWS SSO](https://aws.amazon.com/blogs/aws/multi-factor-authentication-with-webauthn-for-aws-sso/)
 - []()
 
 ### Events and Webnars
